@@ -4,6 +4,11 @@ To apply HTML and CSS knowledge by creating a responsive website based on a give
 
 **Project Overview**
 
+![image](https://github.com/Runeov/HTML-CSS-Course-Assignment/assets/100531314/efd60b7a-6c80-46e6-b23c-d1070ef82ef2)
+
+
+
+
 **Responsive Layout**: Built with Flexbox and CSS Grids to look good on all screen sizes.
 
 **Semantic HTML**: Code is meaningful and clean for better readability and structure.
