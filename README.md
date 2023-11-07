@@ -1,4 +1,5 @@
 Goal
+
 To apply HTML and CSS knowledge by creating a responsive website based on a given design brief.
 
 Project Overview
