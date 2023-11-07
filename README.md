@@ -1,8 +1,8 @@
-Goal
+**Goal**
 
 To apply HTML and CSS knowledge by creating a responsive website based on a given design brief.
 
-Project Overview
+**Project Overview**
 
 Responsive Layout: Built with Flexbox and CSS Grids to look good on all screen sizes.
 
